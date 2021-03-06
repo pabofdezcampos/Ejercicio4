@@ -1,0 +1,5 @@
+- En la clase Persona eliminamos la llamada al super, ya que no es necesario.
+- En la clase Profesor, los sout los extraemos a un método ya que estos se repiten.
+- Añadimos los atributos nombre y edad a Persona, ya que por Herencia les pertenece a la clase Padre.
+- Generamos la llamada del constructor a super.
+- En el constructor de Profesor pasamos como argumento la lista de Prestamo.
